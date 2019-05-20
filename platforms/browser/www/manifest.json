@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "iTranslator Lite",
+  "short_name": "iTranslator Lite",
+  "version": "io.cordova.hellocordova",
+  "description": "Simple and Quick Translator App.",
+  "author": "Ahmed Nasr",
+  "icons": [],
+  "start_url": "index.html"
+}
